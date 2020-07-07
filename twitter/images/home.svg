@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 24" width="25" height="24">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M-126 -11L1274 -11L1274 1795L-126 1795Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: #667580;stroke-width: 2 } 
+	</style>
+	<g id="TWITTER PROFILE 2018" clip-path="url(#cp1)">
+		<g id="Header">
+			<g id="Left side">
+				<g id="Home">
+					<path id="icon" fill-rule="evenodd" class="shp0" d="M22.9 12.3C23.09 13.36 21.97 13.62 21.42 13.27C20.96 13.02 20.06 12.71 20.06 12.71C20.06 12.71 18.68 20.42 17.52 21.27C16.31 21.99 8.43 21.99 7.21 21.27C6.35 19.52 4.95 12.73 4.95 12.73C4.95 12.73 3.78 13.02 3.31 13.27C2.76 13.62 1.84 13.41 2.02 12.34C2.12 11.06 11.62 2.5 12.46 2.5C13.3 2.5 22.4 10.87 22.9 12.3ZM12.46 13.44C13.7 13.44 14.71 12.43 14.71 11.19C14.71 9.95 13.7 8.94 12.46 8.94C11.22 8.94 10.21 9.95 10.21 11.19C10.21 12.43 11.22 13.44 12.46 13.44Z" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
